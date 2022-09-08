@@ -16,4 +16,4 @@ Creating a simple to java to learn manipulating and configuring mavrn projects
 ##### * install
 ##### * deploy
 ### 4 - Fix Maven project's errors and warnings
-  
+### 5 - Using the sl4j api for logging, using Logback  
